@@ -1,5 +1,5 @@
 
-module.exports = {  setting: value,
+module.exports = { 
     outputDir: 'docs',
     assetsDir: 'assets',
     publicPath: '',
